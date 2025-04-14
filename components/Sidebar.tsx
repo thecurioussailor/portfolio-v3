@@ -57,7 +57,7 @@ const Sidebar = () => {
         </div>
         <div className="flex flex-col gap-2 absolute bottom-0 left-0 w-full p-4">
             <h1 className="">Available Now</h1>
-            <button className="rounded-lg px-3 py-3 bg-[#4378E5] text-white w-full">Hire Me</button>
+            <button className="rounded-lg px-3 py-3 bg-[#4378E5] border text-white w-full">Hire Me</button>
         </div>
     </div>
   )

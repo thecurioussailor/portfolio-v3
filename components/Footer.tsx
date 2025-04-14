@@ -5,7 +5,7 @@ const Footer = () => {
             <h1 className="text-xl font-bold">Let&apos;s Talk</h1>
             <h1 className="text-6xl">hello@ashutoshsagar.com</h1>
         </div>
-        <div className="flex gap-4 w-full">
+        <div className="flex gap-4 pb-48 w-full">
             <div className="flex flex-col gap-4 w-1/2">
                 <h1 className="text-3xl font-bold">Get in touch</h1>
                 <div className="flex gap-4">
